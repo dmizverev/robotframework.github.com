@@ -1172,6 +1172,13 @@ export default {
                 img: require("@/assets/img/users/zilogic.png"),
                 text:
                   "Zilogic Systems is using Robot Framework for integration testing of embedded products. We convert requirements into test cases,write necessary libraries to test the Device Under Test."
+              },
+              {
+                title: "nexign",
+                href: "https://www.billing.ru/",
+                img: require("@/assets/img/users/nexign.png"),
+                text:
+                  "Nexign is using Robot Framework for acceptance testing of BSS soluions for large telecommunications operators. Keyword driven approach makes it easy for us to handle thousands of tests on multiple environments."
               }
             ]
           }
